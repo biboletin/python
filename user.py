@@ -17,4 +17,4 @@ class Users:
 
 user = Users("Bilyan", "password")
 print user.getUsername()
-print user.getPassword()
+# print user.getPassword()
